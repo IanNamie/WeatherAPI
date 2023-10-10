@@ -1,0 +1,16 @@
+C:\Users\User\TrueCoders\repos\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.exe
+C:\Users\User\TrueCoders\repos\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.deps.json
+C:\Users\User\TrueCoders\repos\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.runtimeconfig.json
+C:\Users\User\TrueCoders\repos\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.runtimeconfig.dev.json
+C:\Users\User\TrueCoders\repos\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.dll
+C:\Users\User\TrueCoders\repos\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.pdb
+C:\Users\User\TrueCoders\repos\WeatherAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.csproj.AssemblyReference.cache
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.AssemblyInfoInputs.cache
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.AssemblyInfo.cs
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.csproj.CopyComplete
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.dll
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.pdb
+C:\Users\User\TrueCoders\repos\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.genruntimeconfig.cache
